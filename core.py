@@ -521,3 +521,4 @@ def follow():
   os.system("termux-open-url https://www.youtube.com/channel/UCtVzQz_FEQTaU3fXeEYqetQ/")
  else:
   print("ERROR:WRONG INPUT BRO :(")
+menu()
